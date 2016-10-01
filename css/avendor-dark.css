@@ -1,4 +1,5 @@
 /*
+/Master
 Theme Name: Avendor
 Author: FourGrafx
 Author URI: http://www.fourgrafx.com
@@ -95,7 +96,7 @@ box-shadow:         0 3px 14px rgba(50, 50, 50, 0.15)}
 /*===============================
 ========== Grid Blocks ==========
 ===============================*/
-
+/*page*/
 .page-wrapper { position:relative; z-index:1000; background-color: #25242c; overflow: hidden;}
 
 /* Sections */
